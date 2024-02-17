@@ -1,0 +1,68 @@
+h1{
+    color: rgb(24, 70, 53); 
+    border-style: outset ;
+    border-color: rgb(4, 90, 113);
+    border-width: 10px;
+    font-size: 40px;
+    text-align: center;
+    background-color: beige;
+}
+body{
+    background-image: url(../clasic.jpg);
+    width: 800;
+    color:rgb(0, 0, 0);
+}
+
+h2{
+    color:rgb(24, 6, 137);
+   
+}
+
+#titulo3{
+color:rgb(13, 78, 80);
+}
+
+.div1{ 
+    text-align: justify;
+    background-color: rgba(247, 249, 229, 0.845);
+    border: 5mm;
+    border-style: outset ;
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#marcas{
+    width: 15%;
+    background-color: rgba(247, 249, 229, 0.845);
+    border-style: outset ;
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.div3{
+    border:solid;
+    border-style: outset ;
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    width: 70%;
+    margin-left: 25%;
+    margin-top: -155%;
+}
+
+#div4{
+    border:solid;
+    border-style: outset ;
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: -1%;
+    background-color: bisque;
+}
+
+
